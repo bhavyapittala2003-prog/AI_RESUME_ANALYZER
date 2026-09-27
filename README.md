@@ -26,6 +26,16 @@ An AI-powered resume analysis application that compares a resume with a job desc
 * Llama 3.2
 * Git & GitHub
 
+## Project Highlights
+
+- Built a web-based resume analyzer using Python and Streamlit.
+- Supports both PDF and DOCX resume uploads.
+- Extracts and analyzes technical skills using Python and Regex.
+- Compares resume skills with skills required in a job description.
+- Calculates a transparent skill-match percentage based on detected skills.
+- Identifies missing skills that may need improvement.
+- Integrated Llama 3.2 through Ollama for local AI-powered resume analysis.
+- Designed to work without paid AI APIs.
 ## How It Works
 
 1. Upload a PDF or DOCX resume.
