@@ -37,6 +37,16 @@ An AI-powered resume analysis application that compares a resume with a job desc
 7. Missing skills are displayed.
 8. Ollama and Llama 3.2 generate additional resume analysis and suggestions.
 
+## Screenshots
+
+### Application Interface
+
+![AI Resume Analyzer](projects_ss/AI_RESUME_project_SS1.png)
+
+### Resume Analysis
+
+![Resume Analysis](projects_ss/AI_RESUME_project_SS2.png)
+
 ## Local AI
 
 This project uses **Ollama** to run the Llama 3.2 model locally.
